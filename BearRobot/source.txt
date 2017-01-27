@@ -1,0 +1,1 @@
+﻿{"result":[{"poll_type":"discu_message","value":{"content":[["font",{"color":"000000","name":"微软雅黑","size":10,"style":[0,0,0]}],"asas"],"did":3117632983,"from_uin":3117632983,"msg_id":5,"msg_type":0,"send_uin":2786289188,"time":1479038662,"to_uin":740578998}}],"retcode":0}
